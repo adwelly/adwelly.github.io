@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Mob programming – an obvious use case:
+title: Mob programming – an obvious use case
 ---
 
-I attended a talk by Woody Zuil on Mob Programming at Agile NE a few weeks back, and I thought he made a fairly compelling argument for why it could help, as well as clear instructions on how to set up a session. There was also a partially written book available on discount (which I bought) and I thought I’d give it a go at the next opportunity at the UK public body where I ply my trade. I don't talk about them, but you can think of them as the 'Department for Necessary Evil' if that helps
+I attended a talk by Woody Zuil on Mob Programming at Agile NE a few weeks back, and I thought he made a fairly compelling argument for why it could help, as well as clear instructions on how to set up a session. There was also a partially written book available on discount (which I bought) and I thought I’d give it a go at the next opportunity at the UK public body where I ply my trade.
 
 The opportunity arrived fairly swiftly. I’m a member of a team that has been producing a substantial body of code using ‘traditional’ techniques; that is, not TDD. The test coverage is not great and much of the code has become encumbered with a lot of tech debt.
 
