@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+Andy Dwelly -- Developer. I work with Scala and Clojure these days but I've done Lost of Python and Java in the past.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+@adwelly
+[andy.dwelly@pontifex.io](mailto:andy.dwelly@pontifex.io)
