@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Andy Dwelly -- Developer. I work with Scala and Clojure these days but I've done Lost of Python and Java in the past.
+Andy Dwelly -- Developer. I work with Scala and Clojure these days but I've done lots of Python and Java in the past.
 
 ### Contact me
 
