@@ -11,7 +11,7 @@ Google rather unhelpfully defines the prefix 'meta-' as:
 
 I prefer 'X about (or of) X'
 
-So metalanguage is' language about language', metadata is 'data about data' and of naturally, meta-tic-tac-toe is 'tic-tac-toe of tic-tac-toe' or MT3 for short.
+So metalanguage is' language about language', metadata is 'data about data' and naturally, meta-tic-tac-toe is 'tic-tac-toe of tic-tac-toe' or MT3 for short.
 
 I first saw the game years ago on the [Math with bad drawings](https://mathwithbaddrawings.com/2013/06/16/ultimate-tic-tac-toe/) blog,  and since I'm giving a short talk on Clojure and a 2 day course on the same subject early in the new year, it seems like a good moment to write about it. It's a good basis for a talk. And fun (admittedly, for my own rather nerdile sense of fun). Besides which, it's Christmas. Also you can play it on Twitter, and if anyone wants to challenge me, I'm @adwelly; please do — I'll only be working on my thank you letters otherwise.
 
@@ -34,7 +34,7 @@ This is how it works: imagine a larger than normal tic-tac-toe board, with the c
 
 
 
-Each of these cells contains its own game of tic-tac-toe, and you have to win 3 of the little games in a row, column, or a diagonal to win the over all game. So in this case, X won in cells 0 and 1, O has won in cells 4 and 5, and it's X's turn to play. If X plays in the bottom right hand position of cell 2 (* below), X has won the game. That move is cell 2, subposition 8, so I'd probably write it as 2-8, or (2 8) in Clojure.
+Each of these cells contains its own game of tic-tac-toe, and you have to win 3 of the little games in a row, column, or a diagonal to win the overall game. So in this case, X won in cells 0 and 1, O has won in cells 4 and 5, and it's X's turn to play. If X plays in the bottom right hand position of cell 2 (* below), X has won the game. That move is cell 2, subposition 8, so I'd probably write it as 2-8, or (2 8) in Clojure.
 
 ```
 XXO| O | O   
